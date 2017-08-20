@@ -1,0 +1,8 @@
+John: 7.47
+David: 9.07
+Mary: 8.27
+Andy: 9.00
+Ann: 9.13
+Lucy: 8.60
+Dan: 8.40
+Sue: 8.00
